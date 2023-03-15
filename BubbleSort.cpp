@@ -1,5 +1,4 @@
 #include <iostream>
-#define SIZE 50
 
 //BubbleSort Algorithm
 
